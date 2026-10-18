@@ -53,7 +53,7 @@ geometric-area-calculator-java/
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/YOUR-USERNAME/geometric-area-calculator-java.git
+git clone https://github.com/gabriels7cc/geometric-area-calculator-java.git
    ```
 
 2. Open the project in IntelliJ IDEA.
